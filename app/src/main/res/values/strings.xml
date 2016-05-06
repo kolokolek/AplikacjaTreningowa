@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AplikacjaTreningowa</string>
+    <string name="mainquestion">Wybierz interesujący Cię trening</string>
+    <string name="textresult">wynik</string>
+    <string-array name="tablicaSpinnera">
+        <item>łancuch1</item>
+        <item>łancuch2</item>
+        <item>łancuch3</item>
+        <item>łancuch4</item>
+
+    </string-array>
+</resources>
